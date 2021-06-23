@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Sample Implementation
+In the project covered Example of: 
+- JSX component
+- Multiple components
+- props 
+- Rendering list of data
+- Handling Events
+- Parent-Child Communication
+- Managing State
+- Two-Way Binding
 ## Available Scripts
 
 In the project directory, you can run:
